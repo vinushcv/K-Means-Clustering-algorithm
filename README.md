@@ -24,6 +24,8 @@ To write a python program to implement K-Means Clustering Algorithm.
 
 ## Program:
 ```python
+#developed by:vinushcv
+#regnumber:22001897
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
